@@ -19,6 +19,6 @@
 .section {
   height: calc(100% / 7);
   width: 20px;
-  background-color: green;
+  background-color: lightgray;
   margin-bottom: 5px;
 }
