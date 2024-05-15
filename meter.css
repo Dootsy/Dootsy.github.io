@@ -1,0 +1,24 @@
+.meter {
+  width: 100px;
+  height: 300px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.slider {
+  width: 100%;
+}
+
+.sections {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-left: 10px;
+}
+
+.section {
+  height: calc(100% / 7);
+  width: 20px;
+  background-color: lightgray;
+  margin-bottom: 5px;
+}
